@@ -1,2 +1,4 @@
 Foo Bar
 This is file2
+
+I changed the file 
